@@ -1,0 +1,3 @@
+# datasciencecoursera
+Assignment: Course Project for cousera
+Just the course project!  move along, this is not the file you're looking for...
